@@ -1,4 +1,4 @@
-# lgbtqia-community-calendar
+# community-lgbtqia-calendar
 A public, subscribable iCalendar (.ics) file featuring LGBTQIA+ community observances, pride months, awareness weeks, and HIV/AIDS advocacy dates.
 
 How to subscribe:
