@@ -3,3 +3,5 @@ A public, subscribable iCalendar (.ics) file featuring LGBTQIA+ community observ
 
 How to subscribe:
 Copy the GitHub Pages URL and paste it into your calendar app (Google Calendar, Apple Calendar, or Outlook) under "Subscribe from URL".
+
+[Public calendar file ](https://fogrugby.github.io/community-lgbtqia-calendar/calendar-public-all.ics)
